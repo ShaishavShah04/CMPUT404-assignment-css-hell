@@ -1,0 +1,65 @@
+body {
+    font-family: cursive;
+    padding: 20px;
+    background: yellow;
+    color: blueviolet;
+}
+
+.aboutme {
+    height: 12vh;
+    /* border: 2px solid black; */
+    border-bottom: 2px solid grey;
+}
+
+.picdesp {
+    padding: -14px;
+
+}
+
+h2 {
+    font-size: 12px;
+    text-align: right;
+    border-bottom: 2px solid rgb(216, 216, 216);
+}
+
+h3 {
+    font-size: 24px;
+    color: orange;
+
+}
+
+img {
+    width: auto;
+    height: 35vh;
+    border-radius: 50%;
+}
+
+.picdesp p {
+    margin-left: 30px;
+}
+
+.exp {
+    border: 2px solid rgb(155, 155, 155);
+    padding: 20px;
+}
+
+.exp h5 {
+    margin-top: 0;
+    margin-bottom: 2px;
+    font-size: 20px;
+}
+.exp h6 {
+    margin-top: 0;
+    font-size: 16px;
+    color: grey;
+}
+
+li {
+    font-size: 18px;
+    line-height: 1.5rem;
+}
+
+p {
+    font-size: 36px;
+    line-height: 1.5rem;
+}
